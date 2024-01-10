@@ -1,0 +1,24 @@
+{
+  "name": "random-number-range",
+  "version": "1.0.0",
+  "description": "get random number from range",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temuujin-x-codes/random-number-range.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "range"
+  ],
+  "author": "temuujin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temuujin-x-codes/random-number-range/issues"
+  },
+  "homepage": "https://github.com/temuujin-x-codes/random-number-range#readme"
+}
