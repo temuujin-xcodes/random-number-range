@@ -1,6 +1,6 @@
 {
   "name": "random-number-range",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get random number from range",
   "main": "index.js",
   "scripts": {
